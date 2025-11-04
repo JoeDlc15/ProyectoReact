@@ -4,7 +4,7 @@ export const Tab3Screen = () => {
   
   return (
     <View>
-      <Text>HomeScreenMenu</Text>
+      <Text>Perfil</Text>
     </View>
   );
 }

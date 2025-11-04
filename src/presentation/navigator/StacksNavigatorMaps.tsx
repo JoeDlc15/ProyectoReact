@@ -15,6 +15,7 @@ export const StacksNavigatorMaps = () => {
     return (
         <Stack.Navigator
             initialRouteName="LoadingScreen"
+            //initialRouteName="PerssionsScreen"
             screenOptions={{ headerShown: false,
                 cardStyle: {
                     backgroundColor: 'white'

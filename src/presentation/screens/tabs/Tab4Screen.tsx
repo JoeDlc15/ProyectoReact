@@ -4,7 +4,7 @@ export const Tab4Screen = () => {
   
   return (
     <View>
-      <Text>HomeScreenMenu</Text>
+      <Text>Boleteria</Text>
     </View>
   );
 }

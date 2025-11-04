@@ -34,7 +34,7 @@ export const BottomTabsNavigator = () => {
       }}
       >
       <Tab.Screen 
-            name="Pokedex" options={{title:'Pokedex', tabBarIcon: ( {color}) => 
+            name="Pokedex" options={{title:'PokeFinder', tabBarIcon: ( {color}) => 
             (<IonIcon name="invert-mode" size={30} color={color} />)}} component={StacksNavigator} />
       <Tab.Screen 
             name="Tab1" options={{title:'Favoritos', tabBarIcon: ({color}) => 
